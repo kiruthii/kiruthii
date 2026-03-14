@@ -24,7 +24,7 @@
 - Built backend **REST APIs with Django and PostgreSQL**
 - Integrated **Firebase Authentication and secure permission systems**
 - Deployed containerized applications using **Docker and CI/CD pipelines on GCP**
-- Worked on a **US client project (Aimeesays)** implementing **AI RAG systems with Next.js and Node.js** 
+- Worked on a **US client project** implementing **AI RAG systems with Next.js and Node.js** 
 
 **JavaScript Full Stack Intern — Techjays**
 
